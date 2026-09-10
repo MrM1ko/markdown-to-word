@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown 转 Word"
+  short_description: "将 Markdown 文件稳定转换为 Word 文档"
+  default_prompt: "使用 $markdown-to-word 将 Markdown 文件转换为排版稳定的 Word，并完成逐页检查。"
